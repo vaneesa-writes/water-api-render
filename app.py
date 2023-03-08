@@ -7,7 +7,6 @@ import numpy as np
 import pickle
 import pandas as pd
 
-#testing changes
 
 # 2. Create the app object
 app = FastAPI()
