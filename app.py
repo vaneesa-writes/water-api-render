@@ -7,6 +7,7 @@ import numpy as np
 import pickle
 import pandas as pd
 
+
 # 2. Create the app object
 app = FastAPI()
 pickle_in = open("./static/random-forest-water.sav", "rb")
